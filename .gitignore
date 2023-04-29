@@ -1,0 +1,19 @@
+# KiCad 
+*.bak
+*.bck
+*.dcm
+*cache.lib 
+*.kicad_pcb-bak
+*.sch-bak
+*_jlcpcb.csv
+
+*_autosave*
+*-backups/
+
+huibike.net
+huibike.xml
+fp-info-cache
+
+# other backup files
+*~
+\#*#
