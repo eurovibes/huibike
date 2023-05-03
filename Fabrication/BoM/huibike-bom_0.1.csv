@@ -1,0 +1,19 @@
+Row,Reference,Value,P/N,Manufacture,JLPCB Part#,Footprint,Description,Quantity Per PCB
+1,,1 µF,,,C28323 C1525 C8056 C475630 C25756 C128438 C58069,C_0805_2012Metric,Unpolarized capacitor,17
+
+
+
+
+
+Project info:
+Schematic:,huibike
+Variant:,default
+Revision:,0.1
+Date:,2023-04-29
+KiCad Version:,6.0.11+dfsg-1~bpo11+1
+Statistics:
+Component Groups:,1
+Component Count:,17
+Fitted Components:,17
+Number of PCBs:,1
+Total Components:,17

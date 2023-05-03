@@ -1,0 +1,10 @@
+** Drc report for /github/workspace/huibike.kicad_pcb **
+** Created on 2023-05-03 19:13:22 **
+
+** Found 0 DRC violations **
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **
