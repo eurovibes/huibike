@@ -1,5 +1,12 @@
 Row,Reference,Value,P/N,Manufacture,JLPCB Part#,Footprint,Description,Quantity Per PCB
-1,,1 µF,,,C28323 C1525 C8056 C475630 C25756 C128438 C58069,C_0805_2012Metric,Unpolarized capacitor,17
+1,,100 nF,CL05B104KO5NNNC,Samsung Electro-Mechanics,C1525,C_0402_1005Metric,16V 100nF X7R ±10% 0402  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,2
+2,,1 µF,CL21B105KBFNNNE,Samsung Electro-Mechanics,C28323,C_0805_2012Metric,50V 1uF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,2
+3,,ZMM3V3-M,ZMM3V3-M,ST(Semtech),C8056,D_MiniMELF,Single 3.1V~3.5V 500mW 3.3V LL-34 Zener Diodes ROHS,2
+4,,Sensor,N/A,N/A,,PinHeader_1x06_P2.54mm_Vertical,"Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)",2
+5,,BC847,BC847,Shikues,C475630,SOT-23,45V 200mW 100mA NPN SOT-23 Bipolar Transistors - BJT ROHS,1
+6,,15 kΩ,0402WGF1502TCE,UNI-ROYAL(Uniroyal Elec),C25756,R_0402_1005Metric,62.5mW Thick Film Resistors ±1% 15kΩ 0402 Chip Resistor - Surface Mount ROHS,6
+7,,ATtiny10-TS,ATTINY10-TSHR,Microchip Tech,C128438,SOT-23-6,AVR 32Byte 12MHz 4 SOT-23-6 Microcontroller Units (MCUs/MPUs/SOCs) ROHS,1
+8,,LM78M05_TO252,L78M05ABDT-TR,STMicroelectronics,C58069,TO-252-2,2dB@(120Hz) 500mA Fixed 5V~5V Positive 35V TO-252-2(DPAK) Linear Voltage Regulators (LDO) ROHS,1
 
 
 
@@ -12,7 +19,7 @@ Revision:,0.1
 Date:,2023-04-29
 KiCad Version:,6.0.11+dfsg-1~bpo11+1
 Statistics:
-Component Groups:,1
+Component Groups:,8
 Component Count:,17
 Fitted Components:,17
 Number of PCBs:,1
